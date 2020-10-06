@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to Liyuhui's Home Page
 
-You can use the [editor on GitHub](https://github.com/LolliMei/YuhuiLi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Yuhui Li
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Department of Computer Science, Shantou University
 
-### Markdown
+Contact me: To contact with me, you had better email me. If you don't get my reply in 48 hours, please feel free to send it again.
+Mailto:17yhli3@stu.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Biography
+  Yuhui Li is a undergraduate student in Computer Science Department at Shantou University. He is expected to graduate with distiction(Rank 2nd,GPA 4.04/5.0) in 2021. His current research interest is service computing. 
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interest
+  (Sorted By Priority)
+  Service Computing, Blockchain, IoT, Edge Computing
+  
+### Honors And Awards
+- 2017.10 Scholarship for Outstanding New Students, STU  							
+- 2018.11 2nd-class Scholarship for Academic Excellence, STU
+- 2019.05 2nd Prize in the “Challenge Cup” Competition of Guangdong Province
+- 2019.09 2nd Prize in the Contemporary Undergraduate Mathematical Contest in Modeling
+- 2019.09 1st Prize in the Contemporary Undergraduate Mathematical Contest in Modeling (Guangdong Province)  
+- 2019.11 1st-class Scholarship for Academic Excellence, STU
+- 2019.11 Mr. & Mrs. Yan Qingsen Scholarship
+- 2019.12 3rd Prize in the Global Management Challenge
+- 2020.05 3nd Prize in the “Tedi” Data Mining Competition (Guangdong Province)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Publication
 
-**Bold** and _Italic_ and `Code` text
+[IJES] Jianlong Xu, **Yuhui Li**, Kun Wang, Lianghong Xiao, Wei Liang . “FSVA-Data: A Flexible Solution for the Visualization and Analysis of Basin-scale Water Quality Monitoring Data,” International Journal of Embedded Systems,2020, Accepted
 
-[Link](url) and ![Image](src)
-```
+[SmartBlock] **Yuhui Li**, Jianlong Xu and Wei Liang. “GraphMF: QoS Prediction for Large Scale Blockchain Service Selection,” The 3rd International Conference on Smart BlockChain (SmartBlock 2020), Accepted.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LolliMei/YuhuiLi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[CCoS] Jianlong Xu, Lijun Xiao, **Yuhui Li**, Mingwei Huang, Zicong Zhuang,Tien-Hsiung Weng, and Wei Liang. NFMF:Neural Fusion Matrix Factorization for Personalized QoS Prediction in Service Selection，Accepted.
