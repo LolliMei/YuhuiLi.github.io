@@ -26,6 +26,11 @@ Mailto:17yhli3@stu.edu.cn
 - 2019.12 3rd Prize in the Global Management Challenge
 - 2020.05 3nd Prize in the “Tedi” Data Mining Competition (Guangdong Province)
 
+### Copyrights and Patents
+- 国家发明专利《基于位置上下文感知的神经协同过滤服务质量预测方法》
+- 软件著作权《练江流域水质污染分析大数据可视化软件系统》
+- 软件著作权《基于WebGIS的练江流域水质污染检测软件系统》
+
 
 ### Publication
 
