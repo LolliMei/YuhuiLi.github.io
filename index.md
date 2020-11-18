@@ -25,7 +25,8 @@ Mailto:17yhli3@stu.edu.cn
 - 2019.11 Mr. & Mrs. Yan Qingsen Scholarship
 - 2019.12 3rd Prize in the Global Management Challenge
 - 2020.05 3nd Prize in the “Tedi” Data Mining Competition (Guangdong Province)
-- 2020.10 1nd Prize ACM "Lanqiao" Cup
+- 2020.10 1nd Prize ACM "Lanqiao" Cup in Province
+- 2020.10 2nd Prize ACM "Lanqiao" Cup in Nation
 
 ### Copyrights and Patents
 - 国家发明专利《基于位置上下文感知的神经协同过滤服务质量预测方法》
