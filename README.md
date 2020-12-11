@@ -27,7 +27,8 @@ Mailto:17yhli3@stu.edu.cn
 - 2020.05 3nd Prize in the “Tedi” Data Mining Competition (Guangdong Province)
 - 2020.10 1nd Prize ACM "Lanqiao" Cup in Province
 - 2020.10 2nd Prize ACM "Lanqiao" Cup in Nation
-- 2020.11 Outstanding Student Award
+- 2020.11 1st-class Scholarship for Academic Excellence, STU
+- 2020.11 Outstanding Student Award, STU
 
 ### Copyrights and Patents
 - 国家发明专利《基于位置上下文感知的神经协同过滤服务质量预测方法》
@@ -37,7 +38,7 @@ Mailto:17yhli3@stu.edu.cn
 ### Projects
 - 2018 省级大学生创新创业项目《基于树莓派的动作跟随机器人》 
 - 2019 省级大学生创新创业项目《上下文时空感知的车辆密度检测》 
-- 参与 “基于大数据的练江流域水质污染监测技术研究” 广东省科技专项资金（“大专项+任务清单）项目(No. 2019ST043), 2019.10.01-2021.09.30 
+- 参与 “基于大数据的练江流域水质污染监测技术研究” 广东省科技专项资金（“大专项+任务清单）项目 2019.10.01-2021.09.30 
 
 
 ### Publication
