@@ -43,8 +43,10 @@ Mailto:17yhli3@stu.edu.cn
 
 ### Publication
 
-- [IJES] Jianlong Xu, **Yuhui Li**, Kun Wang, Lianghong Xiao, Wei Liang . “FSVA-Data: A Flexible Solution for the Visualization and Analysis of Basin-scale Water Quality Monitoring Data,” International Journal of Embedded Systems,2020, Accepted
+- [EI] [IJES] Jianlong Xu, **Yuhui Li**, Kun Wang, Lianghong Xiao, Wei Liang . “FSVA-Data: A Flexible Solution for the Visualization and Analysis of Basin-scale Water Quality Monitoring Data,” International Journal of Embedded Systems,2020, Accepted
 
-- [SmartBlock] **Yuhui Li**, Jianlong Xu and Wei Liang. “GraphMF: QoS Prediction for Large Scale Blockchain Service Selection,” The 3rd International Conference on Smart BlockChain (SmartBlock 2020), Accepted.
+- [EI] [SmartBlock] **Yuhui Li**, Jianlong Xu and Wei Liang. “GraphMF: QoS Prediction for Large Scale Blockchain Service Selection,” The 3rd International Conference on Smart BlockChain (SmartBlock 2020), Accepted.
 
-- [CCoS] Jianlong Xu, Lijun Xiao, **Yuhui Li**, Mingwei Huang, Zicong Zhuang,Tien-Hsiung Weng, and Wei Liang. NFMF:Neural Fusion Matrix Factorization for Personalized QoS Prediction in Service Selection，Accepted.
+- [CCF-C] [CCoS] Jianlong Xu, Lijun Xiao, **Yuhui Li**, Mingwei Huang, Zicong Zhuang,Tien-Hsiung Weng, and Wei Liang. NFMF:Neural Fusion Matrix Factorization for Personalized QoS Prediction in Service Selection，Accepted.
+
+- [CCF-B] [ICME] Zuhao Ge+, Yuhui Li+, Cheng Liang, Youyi Song, Teng Zhou, Jing Qin. ACSNet: Adaptive Cross-scale Network with Feature Maps Refusion for Vehicle Density Detection, **Oral**
