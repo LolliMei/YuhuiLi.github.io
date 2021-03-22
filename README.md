@@ -2,8 +2,9 @@
 
 Yuhui Li
 
-[2017.09 - 2021.07] Department of Computer Science, Shantou University. Supervised by Dr. Jianlong Xu
-[2021.09 -        ] Department of Electronic and Computer, Hunan University. Supervised by Prof. Wei Liang
+[2017.09 - 2021.07] Department of Computer Science, Shantou University. Supervised by **Dr. Jianlong Xu**
+
+[2021.09 -        ] Department of Electronic and Computer, Hunan University. Supervised by **Prof. Wei Liang**
 
 Contact me: To contact with me, you had better email me. If you don't get my reply in 48 hours, please feel free to send it again.
 Mailto:17yhli3@stu.edu.cn
