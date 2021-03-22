@@ -11,7 +11,7 @@ Mailto:17yhli3@stu.edu.cn
 
 
 ### Biography
-  Yuhui Li is a undergraduate student in Computer Science Department at Shantou University. He is expected to graduate with distiction(Rank 2nd,GPA 4.04/5.0) in 2021. He will be study in Hunan University since 2021.09. His current research interest is service computing, blockchain system and deep learning. 
+  Yuhui Li is a undergraduate student in Computer Science Department at Shantou University. He is expected to graduate with distiction(Rank 2nd,GPA 4.04/5.0) in 2021. He will be study in Hunan University since 2021.09. His current research interest is blockchain security, service computing and deep learning. 
 
 ### Research Interest
   (Sorted By Priority)
